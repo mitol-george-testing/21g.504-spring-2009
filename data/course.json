@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fe43b84c-d16e-9e7e-532a-521e3865ef5b",
+      "c664292d-dbe9-aa20-6c7e-01252c3c1158",
+      "a921a4b1-77e4-aa77-8628-5eb97b73d549"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Japanese IV",
+  "course_description": "This course covers _Japanese: The Spoken Language_ lessons 17 through 22. It will further develop the four basic skills, speaking, listening, reading and writing, that students have acquired through Japanese I, II and III courses, with emphasis on oral communication skills in various practical situations. Students will learn approximately 100 Kanji characters in this course. Sessions in English cover grammar explanation, socio-cultural information and other important issues for using the language, while Japanese lessons focus on the actual use of the language, integrating students' prior knowledge with newly learned patterns, and communicating within the frame given in the class.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.504",
+  "learning_resource_types": [
+    "Other Audio",
+    "Other Video",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
